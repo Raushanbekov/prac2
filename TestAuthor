@@ -1,0 +1,8 @@
+public class TestAuthor {
+
+	public static void main(String [] args)
+	{
+		Author First = new Author("Бек Рауш", "ulululul@gmail.com", 'M');
+		First.toString();
+	}
+}
